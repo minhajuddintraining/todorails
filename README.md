@@ -1,6 +1,6 @@
 # README
 
-1. A user should be able to add a new task.
+1. A user should be able to add a new task (which can have a title).
 2. A user should be able to see a list of tasks.
 3. A user should be able to mark a task as completed.
 4. A user should be able to delete a task.
@@ -17,6 +17,9 @@
 
     make an input field and add a button which adds a text
 
+
+
+Browser => Go to localhost:3030/tasks/new => Rails server => config/routes 
 
 
 ---
